@@ -36,6 +36,10 @@
             {
                 "og:image",
                 Templates._OpenGraphMetadata.Fields.OpenGraphImageUrl
+            },
+            {
+                "fb:app_id",
+                Templates._OpenGraphMetadata.Fields.OpenGraphAppId
             }
         };
     }
